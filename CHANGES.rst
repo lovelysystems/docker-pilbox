@@ -2,7 +2,7 @@
 Changes for docker-pilbox
 =========================
 
-unreleased
-==========
+2018/07/23 0.0.1
+================
 
  - initial version
