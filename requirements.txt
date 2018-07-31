@@ -4,7 +4,7 @@
 #
 #    pip-compile --output-file requirements.txt requirements.in
 #
-pilbox==1.3.2
-pillow==2.9.0             # via pilbox
+pilbox==1.3.3
+pillow==5.2.0             # via pilbox
 sphinx-me==0.2.1          # via pilbox
-tornado==4.5.1            # via pilbox
+tornado==5.1.0            # via pilbox

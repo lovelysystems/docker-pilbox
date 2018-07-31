@@ -30,9 +30,8 @@ tasks {
             exec {
                 commandLine(
                     pip, "install", "--upgrade",
-                    "pip==10.0.1",
-                    "setuptools==36.6.0",
-                    "pip-tools==1.10.1"
+                    "pip==18.0",
+                    "pip-tools==2.0.2"
                 )
             }
         }
